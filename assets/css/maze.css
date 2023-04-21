@@ -8,7 +8,7 @@ body {
 	flex-direction: column;
 	place-items: center;
 	place-content: center;
-	background-image: url("../img/back.jpeg");
+	background-color: black;
  	backdrop-filter: blur(12px);
 	font-family: "Rubik", sans-serif;
 }
